@@ -5,7 +5,7 @@
 
 <div id="user-content-toc">
   <ul align="left">
-    <summary><h1 style="display: inline-block">¡Hola👋, Doy Jeremy Mack !</h1></summary>
+    <summary><h1 style="display: inline-block">¡Hola👋, Soy Jeremy Mack !</h1></summary>
   </ul>
 </div>
 
@@ -18,7 +18,7 @@
 - :school: Soy un `Junior` en la [Instituto Tecnologico de Santo Domingo ](https://www.intec.edu.do/)
 - :technologist: **Actualmente trabajando en** Desarrollo de `Frontend` 
 - :boom: Puedes visitar [MI SITIO WEB](https://jeremy-mack1.github.io) para obtener conocimientos sobre frontend
-- :email: No dudes en **contactarme** [![Enviar correo electrónico](https://img.shields.io/static/v1?label=correo&amp;message=ElioChiu&amp;color=EA4335&amp;style=flat-square)](mailto:mackjeremy11@gmail.com)
+- :email: No dudes en **contactarme** [![Enviar correo electrónico](https://img.shields.io/static/v1?label=correo&amp;message=JeremyMack&amp;color=EA4335&amp;style=flat-square)](mailto:mackjeremy11@gmail.com)
 - :nerd_face: Siempre creo en que `"Eres lo que amas"`
 
 <br>
@@ -36,7 +36,9 @@
 ![HTML5](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
+
 ![Vue](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white)
+
 ![npm](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white)
 ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=Axios&logoColor=white)
 
