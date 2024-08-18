@@ -22,7 +22,7 @@
 
 <ul>
   <li>🎓 Estudiante de <strong>Ingeniería de Software</strong> en el <a href="https://www.intec.edu.do/" style="color: #4A90E2; text-decoration: none;"><strong>Instituto Tecnológico de Santo Domingo (INTEC)</strong></a>, con destacado rendimiento académico.</li>
-  <li>📈 Interesado en <strong>Desarrollo Full-Stack</strong>, <strong>Inteligencia Artificial</strong> y <strong>Blockchain</strong>.</li>
+  <li>📈 Interesado en <strong>Desarrollo Full-Stack</strong>, <strong>Inteligencia Artificial</strong> y <strong>Analisis de Datos</strong>.</li>
   <li>📫 No dudes en <strong>contactarme</strong> a través de <a href="mailto:mackjeremy11@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail Badge"></a> o visita mi <a href="https://www.linkedin.com/in/jeremy-mack" style="color: #4A90E2; text-decoration: none;"><strong>LinkedIn</strong></a> para más información.</li>
 </ul>
 
@@ -66,13 +66,6 @@
   <img src="https://img.shields.io/badge/MacOS-000000?style=flat-square&logo=MacOS&logoColor=white" alt="MacOS">
   <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white" alt="Windows">
 </div>
-
-### 🌐 Idiomas
-
-<ul>
-  <li>Español (Nativo)</li>
-  <li>Inglés (Intermedio)</li>
-</ul>
 
 ---
 
