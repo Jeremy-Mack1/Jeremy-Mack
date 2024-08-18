@@ -24,19 +24,7 @@
 - 📈 Interesado en `Desarrollo Full-Stack`, `Inteligencia Artificial` y `Blockchain`.
 - 📫 No dudes en **contactarme** a través de [![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:mackjeremy11@gmail.com) o visita mi [LinkedIn](https://www.linkedin.com/in/jeremy-mack) para más información.
 
-<br>
 
-## 📚 Educación
-
-### INSTITUTO TECNOLÓGICO DE SANTO DOMINGO (INTEC)
-**Ingeniería de Software**
-
-- Tecnologías de Objeto
-- Estructura de Datos
-- Arquitectura de Software
-- UX/UI
-
-<br>
 
 ## 🛠️ Mis Habilidades
 
