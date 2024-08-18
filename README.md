@@ -2,54 +2,82 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!--Título h1 sin borde inferior-->
-
 <div id="user-content-toc">
   <ul align="left">
-    <summary><h1 style="display: inline-block">¡Hola👋, Soy Jeremy Mack !</h1></summary>
+    <summary><h1 style="display: inline-block">¡Hola👋, Soy Jeremy Mack!</h1></summary>
   </ul>
 </div>
 
 <!--Acerca de mí-->
+<h2>
+  <picture>
+    <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="30px">
+  </picture>
+  Acerca de mí
+</h2>
 
-## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width=30px></picture> Acerca de mí
+<picture>
+  <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="300px">
+</picture>
 
-<picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width=300px></picture>
+- 🎓 Estudiante de `Ingeniería de Software` en el <a href="https://www.intec.edu.do/">Instituto Tecnológico de Santo Domingo (INTEC)</a>, con destacado rendimiento académico.
+- 📈 Interesado en `Desarrollo Full-Stack`, `Inteligencia Artificial` y `Blockchain`.
+- 📫 No dudes en **contactarme** a través de [![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:mackjeremy11@gmail.com) o visita mi [LinkedIn](https://www.linkedin.com/in/jeremy-mack) para más información.
 
-- :school: Soy un `Junior` en la [Instituto Tecnologico de Santo Domingo ](https://www.intec.edu.do/)
-- :technologist: **Actualmente trabajando en** Desarrollo de `Frontend` 
-- :boom: Puedes visitar [MI SITIO WEB](https://jeremy-mack1.github.io) para obtener conocimientos sobre frontend
-- :email: No dudes en **contactarme** [![Enviar correo electrónico](https://img.shields.io/static/v1?label=correo&amp;message=JeremyMack&amp;color=EA4335&amp;style=flat-square)](mailto:mackjeremy11@gmail.com)
-- :nerd_face: Siempre creo en que `"Eres lo que amas"`
+<br>
+
+## 📚 Educación
+
+### INSTITUTO TECNOLÓGICO DE SANTO DOMINGO (INTEC)
+**Ingeniería de Software**
+
+- Tecnologías de Objeto
+- Estructura de Datos
+- Arquitectura de Software
+- UX/UI
 
 <br>
 
 ## 🛠️ Mis Habilidades
 
-### <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width=20px> </picture> Lenguajes de programación
+### <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width="20px"> </picture> Lenguajes de Programación
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
-
-
-### <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width=20px> </picture> Desarrollo Frontend
-
 ![HTML5](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
+![React.js](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=Mathworks&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=Cplusplus&logoColor=white)
 
-![Vue](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white)
-
-![npm](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white)
-![Axios](https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=Axios&logoColor=white)
-
-
-### <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width=20px> </picture> Software y Herramientas
+### <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width="20px"> </picture> Herramientas y Tecnologías
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=LaTeX&logoColor=white)
-![JSON](https://img.shields.io/badge/JSON-000000?style=flat-square&logo=JSON&logoColor=white)
-![OpenSSL](https://img.shields.io/badge/OpenSSL-721412?style=flat-square&logo=OpenSSL&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon-AWS&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=Selenium&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=Microsoft-Excel&logoColor=white)
+![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=flat-square&logo=Salesforce&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=Power-BI&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white)
 
-### <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs
+### <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width="20px"> </picture> Plataformas
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white)
+![MacOS](https://img.shields.io/badge/MacOS-000000?style=flat-square&logo=MacOS&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white)
+
+### 🌐 Idiomas
+
+- Español (Nativo)
+- Inglés (Intermedio)
+
+---
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</p>
